@@ -1,7 +1,7 @@
 
-#STRIKE Contact Matrix Generator
+# STRIKE Contact Matrix Generator
 
-##Introduction
+## Introduction
 
 This utilitary is part of the program [STRIKE](http://www.tcoffee.org/Projects/strike/) (Single sTRucture Induced Evaluation) a program to evaluate protein multiple sequence alignments using a single protein structure , and has been developed to support the funcionality of the  [jMetalMSA](https://github.com/jMetal/jMetalMSA) a Parallel software tool for Multiple Sequence Alignment with multi-objective metaheuristics .
 
