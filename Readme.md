@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This utilitary is part of the program [STRIKE](http://www.tcoffee.org/Projects/strike/) (Single sTRucture Induced Evaluation) a program to evaluate protein multiple sequence alignments using a single protein structure , and has been developed to support the funcionality of the  [jMetalMSA](https://github.com/jMetal/jMetalMSA) a Parallel software tool for Multiple Sequence Alignment with multi-objective metaheuristics.
+This utilitary is part of the program [STRIKE](http://www.tcoffee.org/Projects/strike/) (Single sTRucture Induced Evaluation), a program to evaluate protein multiple sequence alignments using a single protein structure. 
 
 STRIKE Contact Matrix Generator allows the computation of the STRIKE Contact matrix of a given sequence using its PDB structural information as a source for amino acid frequencies and contacts. A text file is created, called as the sequence with the prefix `.contacts`. This contact file is requeried to estimate the STRIKE score given an alignment that includes the sequence.
 
