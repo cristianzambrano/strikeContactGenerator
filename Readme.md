@@ -28,5 +28,16 @@ To run an example change into the program directory and run the following comman
 @: ./bin/strike_pdbcontactsgenerator SequenceName PDBPathFile Chain OutputDirectory
 ```
 
+## Example 1: Generate the contact file of a protein sequence with PDB ID: 1aab 
+
+To generate the contact file of the protein sequence 1aab, we have to download the PDB file from the [Protein Data Bank](http://www.rcsb.org), with the PDB ID 1aab. 
+The PDB file of the sequence (1aab_.pdb) is saved in the directory example and the output directory is the current path of this application.
+The command is following:
+
+```
+@: ./bin/strike_pdbcontactsgenerator 1aab example/1aab_.pdb A ./
+```
+
+
 
 
