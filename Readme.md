@@ -37,7 +37,15 @@ The command is following:
 ```
 @: ./bin/strike_pdbcontactsgenerator 1aab example/1aab_.pdb A ./
 ```
+The 1aab.contacts is created in the current directory.
 
+## Example 2: Generate the contact file of the protein sequence of Grenache (Vitis vinifera) Polyphenol Oxidase
 
+The PDB File is saved in the example directory (2p3x.pdb). The PDB ID is 2P3X. 
+The command is:
 
+```
+@: ./bin/strike_pdbcontactsgenerator 2p3x example/2p3x.pdb A ./
+```
 
+The 2p3x.contacts is created in the current directory.
